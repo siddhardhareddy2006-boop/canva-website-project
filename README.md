@@ -18,8 +18,6 @@ It presents our project objectives, design, and applications in a professional f
 - Canva (Design and Website Publishing)
 - GitHub (Version Control & Repository)
 
-## Deployment Link
-[Click here to view our live Canva website](https://your-design-name.my.canva.site/)
 
 ## Features
 - Visual project overview
@@ -35,3 +33,12 @@ It presents our project objectives, design, and applications in a professional f
 **Dr. P. Praveen Kumar**  
 Skill in Semester – 2 Project Review  
 Department of Computer Science Engineering
+
+
+
+
+
+
+
+## Project file
+[Web-Based Educational Resource Library Prototype Design (1).pdf](https://github.com/user-attachments/files/23350992/Web-Based.Educational.Resource.Library.Prototype.Design.1.pdf)
